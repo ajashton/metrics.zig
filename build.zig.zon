@@ -9,6 +9,6 @@
         "example",
     },
     .version = "0.0.0",
-    .minimum_zig_version = "0.16.0",
+    .minimum_zig_version = "0.17.0",
     .fingerprint = 0x228aaae778b8b15b,
 }
